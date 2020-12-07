@@ -1,0 +1,11 @@
+P  Idade   - Atividade   Percepção  Peso(kg)  Altura (cm)
+A: 23 anos - Até 1 hora  N          61        172  
+B: 19 anos - 1-3 horas   N          70        186
+C: 26 anos - Até 1 hora  N          56        170
+D: 24 anos - Até 1 hora  N          63        164
+E: 23 anos - +3 horas    N          78        174
+F: 25 anos - Até 1 hora  S          60        170
+
+
+Atividade (Até 1 hora, 1-3 horas, +3 horas por semana)
+Percepção: disse com certeza quando estava jogando contra outra pessoa
